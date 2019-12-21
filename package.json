@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/naldojoseph/googlesearch/issues"
   },
-  "homepage": "https://github.com/naldojoseph/googlesearch#readme"
+  "homepage": "https://github.com/naldojoseph/googlesearch#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.2"
+  }
 }
