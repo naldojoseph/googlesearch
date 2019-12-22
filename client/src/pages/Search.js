@@ -15,7 +15,7 @@ class Search extends React.Component {
     }
 
     handleChange(e) {
-        e.preventDefault();
+       
         this.setState({bookInput: e.target.value})
     }
 

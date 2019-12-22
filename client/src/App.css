@@ -1,5 +1,5 @@
 nav {
-  background-color: rgb(76, 199, 227);
+  background-color: rgb(144, 207, 222);
   padding: 1rem 0;
 }
 
@@ -45,7 +45,7 @@ h3 {
 
 #searchContainer, #resultsContainer {
   color: white;
-  background-color: rgb(76, 199, 227);
+  background-color: rgb(135, 193, 206);
   padding: 2vw;
   margin: 2vw;
   font-size: 3vw;
