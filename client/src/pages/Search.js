@@ -21,6 +21,7 @@ class Search extends React.Component {
 
     handleSearchClick(e) {
         e.preventDefault();
+        console.log(this.state.bookInput);
         API.searchBooks(this.state.bookInput)
             .then(
                 (response) => {
